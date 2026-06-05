@@ -61,7 +61,7 @@ SQL • Python • Excel • Tableau • Power BI • Salesforce Analytics • G
 
 ## 📊 GitHub Stats
 
-![Aarati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarati11-salesforce&show_icons=true&theme=default)
+![Aarati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaratibamaniya&show_icons=true&theme=default)
 
 ---
 
