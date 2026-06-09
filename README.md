@@ -59,9 +59,13 @@ SQL • Python • Excel • Tableau • Power BI • Salesforce Analytics • G
 
 ---
 
-## 📊 GitHub Stats
-
-![Aarati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaratibamaniya&show_icons=true&theme=default)
+## 🎶 Outside the Screen
+- 🌊 Swimming helps me reset my thoughts, just like cleaning messy data before analysis.
+- 📚 I love reading books and exploring stories that stay with me (📖 Currently reading: *The Book Thief*)
+- 🍳 My kitchen is a science lab where every recipe becomes an experiment(🧪 Some days it is a masterpiece, and some days it is a surprise discovery).
+- 🎶 Music helps me relax, recharge, and stay creative.
+- 🌱 I enjoy learning new skills and finding inspiration in everyday experiences.
+- ✨ I believe curiosity makes both life and data more interesting.
 
 ---
 
