@@ -45,10 +45,10 @@ I enjoy transforming raw data into meaningful insights, building dashboards, and
 
 ## 📜 Certifications
  
-🏅 IBM Data Analyst Professional Certificate
-🏅 Microsoft Certified: Azure AI Fundamentals
-🏅 Salesforce Certified Platform Developer I  
-🏅 Certified System Architect   
+|🏅 IBM Data Analyst Professional Certificate
+|🏅 Microsoft Certified: Azure AI Fundamentals
+|🏅 Salesforce Certified Platform Developer I  
+|🏅 Certified System Architect   
 
 
 ---
